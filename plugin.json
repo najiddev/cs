@@ -1,0 +1,28 @@
+[
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ALLBYNAJID/cloudstream",
+        "fileSize": 53283,
+        "status": 1,
+        "language": "bn",
+        "authors": [
+            "Najid"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AnimeMovie",
+            "OVA",
+            "Cartoon",
+            "AsianDrama",
+            "Others",
+            "Documentary"
+        ],
+        "version": 2,
+        "internalName": "DhakaFlix-tmdb",
+        "description": "DhakaFlix BDIX Provider with TMDB support for media description",
+        "url": "https://raw.githubusercontent.com/ALLBYNAJID/cloudstream/builds/DhakaFlix-tmdb.cs3",
+        "name": "DhakaFlix-tmdb"
+    }
+      ]
