@@ -1,0 +1,8 @@
+{
+    "name": "WATCH TV",
+    "description": "CREATE BY NAJID",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/najiddev/cs/refs/heads/main/plugin.json"
+    ]
+}
